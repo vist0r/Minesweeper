@@ -1,0 +1,62 @@
+C:\Users\dell\Desktop\saolei\saolei\saolei\bin\Debug\saolei.exe.config
+C:\Users\dell\Desktop\saolei\saolei\saolei\bin\Debug\saolei.exe
+C:\Users\dell\Desktop\saolei\saolei\saolei\bin\Debug\saolei.pdb
+C:\Users\dell\Desktop\saolei\saolei\saolei\obj\Debug\saolei.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\saolei\saolei\saolei\obj\Debug\saolei.Form1.resources
+C:\Users\dell\Desktop\saolei\saolei\saolei\obj\Debug\saolei.Properties.Resources.resources
+C:\Users\dell\Desktop\saolei\saolei\saolei\obj\Debug\saolei.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\saolei\saolei\saolei\obj\Debug\saolei.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\saolei\saolei\saolei\obj\Debug\saolei.exe
+C:\Users\dell\Desktop\saolei\saolei\saolei\obj\Debug\saolei.pdb
+C:\Users\dell\Desktop\saolei\saolei\saolei\obj\Debug\saolei.MineFild.resources
+C:\Users\dell\Desktop\saolei\saolei\saolei\bin\Debug\MineFild.resx
+C:\Users\dell\Desktop\saolei\saolei\saolei\bin\Debug\MineFild.cs
+C:\Users\dell\Desktop\saolei\saolei\saolei\bin\Debug\MineFild.Designer.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\bin\Debug\saolei.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\bin\Debug\MineFild.resx
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\bin\Debug\MineFild.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\bin\Debug\MineFild.Designer.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\bin\Debug\saolei.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\bin\Debug\saolei.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.MineFild.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.NixieTube.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saolei ai\saolei\obj\Debug\saolei.LED.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\bin\Debug\saolei.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\bin\Debug\MineFild.resx
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\bin\Debug\MineFild.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\bin\Debug\MineFild.Designer.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\bin\Debug\saolei.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\bin\Debug\saolei.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.LED.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.MineFild.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.NixieTube.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\saoleiai_4.0\saolei\obj\Debug\saolei.Custom.resources
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\bin\Debug\MineFild.resx
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\bin\Debug\MineFild.cs
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\bin\Debug\MineFild.Designer.cs
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\bin\Debug\saolei.exe.config
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\bin\Debug\saolei.exe
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\bin\Debug\saolei.pdb
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.Custom.resources
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.Form1.resources
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.LED.resources
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.MineFild.resources
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.NixieTube.resources
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.Properties.Resources.resources
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.exe
+C:\Users\dell\Desktop\saolei\saoleiai_4.2\saolei\obj\Debug\saolei.pdb
